@@ -35,7 +35,7 @@ while True:
     printList(list)
     p += 1 
 
-    # reset Bethoven
+    # reset Beethoven
     if p >= 14:
         p = 0
 
