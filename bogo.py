@@ -15,7 +15,6 @@ p = 0
 print("Type numbers to be sorted:")
 while i < 5:
     list.append(input())
-    #list.sort()
     i += 1
 
 # create a sorted copy of this list to check later
